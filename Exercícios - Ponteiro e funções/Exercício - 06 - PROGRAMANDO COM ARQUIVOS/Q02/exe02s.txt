@@ -1,0 +1,3 @@
+A soma dos primeiros
+3 numeros em
+exe02s.txt 12
