@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 #include <ctype.h> // maiusculo minusculo
-//atualizado 2023
+
 /*6. Escreva uma função que recebe dois números inteiros distintos e retorna o maior dentre eles.
 int maior(int n1, int n2)
 {
